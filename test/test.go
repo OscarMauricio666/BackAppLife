@@ -1,5 +1,5 @@
-package test
+package Test
 
 func Prueba() string {
-	return "Prueba unos"
+	return "Funcion publica"
 }

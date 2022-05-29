@@ -1,3 +1,5 @@
-module main.go
+module github.com/OscarMauricio666/BackAppLife
 
 go 1.17
+
+require github.com/go-sql-driver/mysql v1.6.0 // indirect
